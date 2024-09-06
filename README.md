@@ -2,6 +2,9 @@
 
 Welcome to the **Powerful DevOps and IT Cheat-Sheet Collection**! This repository is your one-stop resource for quick reference guides, tips, and best practices covering a wide range of DevOps and IT topics. Whether you're a seasoned professional or just starting out, these cheat sheets will help you navigate complex tools and technologies with ease.
 
+![image](https://github.com/user-attachments/assets/5cb8dec1-8303-4dbb-94b7-2503f02adb30)
+
+
 ## What's Inside?
 
 - **Command-Line Essentials**: A curated list of must-know Linux, Unix, and Windows commands for everyday tasks.
